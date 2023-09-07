@@ -1,0 +1,10 @@
+[
+	{
+		"code": "INS",
+		"name": "INS",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
